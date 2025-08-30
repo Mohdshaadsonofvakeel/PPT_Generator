@@ -1,7 +1,8 @@
 
 # Your Text, Your Style – Presentation Generator
 
-![Presentation generator concept]({{file:file-63m74MxYHacgPVd7NxBrV8}})
+![Presentation generator concept](https://github.com/Mohdshaadsonofvakeel/PPT_Generator/raw/main/Image%20Aug%2030,%202025,%2004_31_43%20PM.png)
+
 
 A lightweight web application that turns long‑form text or Markdown into a polished PowerPoint presentation.  Upload your own `.pptx` or `.potx` template to preserve your brand’s colours, fonts and layouts, supply an LLM API key (OpenAI, AI Pipe, Anthropic Claude or Google Gemini) and let the backend generate a slide deck that matches your chosen style.  No AI images are generated; instead, the system reuses images from your template to maintain a coherent visual identity【261556983672121†L2-L19】.
 
